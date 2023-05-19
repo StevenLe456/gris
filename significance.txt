@@ -1,0 +1,18 @@
+Significance of Closeness Centrality Measure
+T-test statistics: -2.5037956632511715, p-value: 0.01236599473128674
+Mean of non-psychotic sample's closeness centrality: 0.045903469581685626
+Mean of psychotic sample's closeness centrality: 0.052331287801024924
+Significance of Betweenness Centrality Measure
+T-test statistics: 0.5092492686640506, p-value: 0.610633691619775
+Significance of In-Degree Centrality Measure
+T-test statistics: -3.1595516726981696, p-value: 0.001603741547638198
+Mean of non-psychotic sample's in-degree centrality: 0.04264878438682418
+Mean of psychotic sample's in-degree centrality: 0.05073971460364129
+Significance of Average Clustering Coefficient Measure
+T-test statistics: 6.674805126698134, p-value: 3.1959796465296394e-11
+Mean of non-psychotic sample's average clustering coefficient: 0.007435492695105763
+Mean of psychotic sample's average clustering coefficient: 0.003776076739808161
+Significance of Global Efficiency Measure
+T-test statistics: -3.5797266939320194, p-value: 0.00035215243215423644
+Mean of non-psychotic sample's global efficiency: 0.2530064038863931
+Mean of psychotic sample's global efficiency: 0.27445695017553257
